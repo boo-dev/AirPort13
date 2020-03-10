@@ -1,0 +1,9 @@
+Package: com.boo.airport13
+Name: AirPort (iOS 13)
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker
+Version: 1.0
+Architecture: iphoneos-arm
+Description: The Ultimate AirPods Customization Tweak
+Maintainer: Boo
+Author: Boo
+Section: Tweaks

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>startTime</key>
+		<real>0.833</real>
+		<key>duration</key>
+		<real>5.633</real>
+	</dict>
+	<dict>
+		<key>startTime</key>
+		<real>6.633</real>
+		<key>duration</key>
+		<real>7.9</real>
+	</dict>
+</array>
+</plist>

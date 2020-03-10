@@ -1,0 +1,8 @@
+#!/bin/bash
+killall -KILL sharingd || true
+killall -KILL SharingViewService || true
+echo "Made with love by @BooDev"
+echo "TY @LaughingQuoll for the postinst script :)"
+
+#launchctl stop com.apple.SharingViewService
+#launchctl stop com.apple.sharingd

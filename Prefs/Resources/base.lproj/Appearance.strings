@@ -1,0 +1,25 @@
+{
+  "LABELS" = "Labels";
+  "USE_LABELCOLOR" = "Use Custom Label Color";
+  "CUSTOM_LABEL_COLOR" = "Label Color";
+
+  "APPEARANCE" = "Appearance";
+  "STYLE" = "Style";
+  "USE_BGCOLOR" = "Use Custom Background Color";
+
+  "BG_COLOR" = "Background Color";
+  "BG_BLUR_MODE" = "Background Blur Mode";
+
+  "OFF" = "Off";
+  "LIGHT" = "Light";
+  "DARK" = "Dark";
+
+  "BG_BLUR_OPACITY" = "Blur Opacity";
+  "BG_BLUR_COLOR_OPACITY" = "Blur Color Opacity";
+
+  "OUTLINE" = "Outline";
+  "USE_OUTLINE" = "Use Outline";
+  "CUSTOM_OUTLINE_COLOR" = "Outline Color";
+
+  "THICKNESS" = "Thickness";
+}

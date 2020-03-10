@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>dark</key>
+  <dict>
+    <key>bias</key>
+    <real>0.4</real>
+    <key>matrix</key>
+    <real>1.05</real>
+  </dict>
+  <key>light</key>
+  <dict>
+    <key>bias</key>
+    <real>0.5</real>
+    <key>matrix</key>
+    <real>1.16</real>
+  </dict>
+</dict>
+</plist>

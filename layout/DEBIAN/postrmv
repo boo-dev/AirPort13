@@ -1,0 +1,7 @@
+#!/bin/bash
+if [[ $1 != upgrade ]]; then
+killall -KILL sharingd || true
+killall -KILL SharingViewService || true
+else
+:
+fi

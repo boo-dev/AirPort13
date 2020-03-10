@@ -1,0 +1,28 @@
+{
+  "ENABLED" = "Enabled";
+  "APPLY" = "Apply";
+  
+  "AIRPODS" = "AirPods";
+  "AIRPODS_PRO" = "AirPods Pro";
+  "AIRPODS_WIRELESS" = "AirPods (Wireless Case)";
+  "HAPTICS" = "Haptics";
+
+  "SETTINGS" = "Settings";
+  "APPEARANCE" = "Appearance";
+  "LEGACY_SUPPORT" = "Legacy Support";
+  "USE_CUSTOM_ANIMATION" = "Use Custom Animation";
+  "USE_DARK_MODE" = "Dark Mode";
+  "USE_HAPTIC" = "Haptic Feedback";
+  "LIGHT" = "Light";
+  "MEDIUM" = "Medium";
+  "HEAVY" = "Heavy";
+  "DARK_MODE_SUBSTRING" = "Dark mode will disable custom animations, if you want to use custom animations, please disable dark mode.";
+  "CUSTOM_ANIM" = "Custom Animation";
+  "LEGACY" = "Legacy";
+
+  "RESPRING" = "Respring";
+  "RESTORE_DEFAULTS" = "Reset Settings Back To Default";
+  "SOURCE_CODE" = "Source Code";
+  "DONATE_TITLE" = "Donate To Boo";
+  "DONATE_SUBTITLE" = "Buy me a coffee? 😊";
+}
